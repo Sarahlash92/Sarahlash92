@@ -5,7 +5,7 @@
 --> 
 
 
-Former architect turned full stack developer, because designing buildings was too Static for me. I'm passionate about creating dynamic web applications that are both functional and visually stunning.
+Former architect turned full stack developer, because designing buildings was too Static for me. I'm passionate about creating dynamic web applications that are both functional and visually pleasing.
 
 ## Skills 
 
