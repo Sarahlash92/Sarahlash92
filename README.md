@@ -5,7 +5,7 @@
 --> 
 
 
-Former architect turned full stack developer, because designing buildings was too Static for me. I'm passionate about creating dynamic web applications that are both functional and visually pleasing.
+Full stack developer with the background in Architecture, because designing buildings was too Static for me. I'm passionate about creating dynamic web applications that are both functional and visually pleasing.
 
 ## Skills 
 
@@ -21,7 +21,7 @@ Former architect turned full stack developer, because designing buildings was to
 * SQL 
 * non-SQL 
 
-With a background in architecture, I bring a unique perspective to my work as a full stack developer. My experience with 3D design programs such as Autodesk 3ds Max and SketchUp has given me a strong foundation in graphics programming, which has allowed me to dive into web-based 3D technologies like Three.js and React Three Fiber.
+I bring a unique perspective to my work as a full stack developer. My experience with 3D design programs such as Autodesk 3ds Max and SketchUp has given me a strong foundation in graphics programming, which has allowed me to dive into web-based 3D technologies like Three.js and React Three Fiber.
 
 I'm constantly expanding my knowledge in these areas, as well as other programming languages and tools, to stay up-to-date with the latest trends and best practices in the industry.
 
