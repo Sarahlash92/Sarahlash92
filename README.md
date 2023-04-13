@@ -7,48 +7,44 @@
 
 Full stack developer with the background in Architecture, because designing buildings was too Static for me. I'm passionate about creating dynamic web applications that are both functional and visually pleasing.
 
-## Skills 
+### Languages
+<p align-"left">
+<img src="https://img.shields.io/badge/javascript-ffeb3b?style=for-the-badge&logo=javascript&logoColor=black">
+<img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue">
+<img src="https://img.shields.io/badge/typescript-037acb?style=for-the-badge&logo=typescript&logoColor=white">
+</p>
 
-  *Express.js
-  *Google Sketchup
-  *JavaScript
-  *Koa
-  *MongoDB
-  *MySQL
-  *Node.js
-  *React
-  *React Three Fiber
-  *Redux
-  *REST API 
-  *SQL
-  *ThreeJs 
-  *Typescript
-  *Rhinoceros
-  *sketchUp 
-  *Adobe Suite
-  *Autodesk 3ds Max
-  *Blender 3D
-  
+### Frontend development
+<p align-"left">
+<img src="https://img.shields.io/badge/html5-cf5533?style=for-the-badge&logo=html5&logoColor=white">
+<img src="https://img.shields.io/badge/css3-254bdd?style=for-the-badge&logo=css3&logoColor=white">
+<img src="https://img.shields.io/badge/react-5ed3f3?style=for-the-badge&logo=react&logoColor=black">
+<img src="https://img.shields.io/badge/nextjs-000000?style=for-the-badge&logo=next.js&logoColor=white">
+<img src="https://img.shields.io/badge/tailwindcss-38b2ac?style=for-the-badge&logo=tailwind-css&logoColor=white">
+<img src="https://img.shields.io/badge/threejs-000000?style=for-the-badge&logo=three.js&logoColor=white">
+<img src="https://img.shields.io/badge/redux-764abc?style=for-the-badge&logo=redux&logoColor=white">
+<img src="https://img.shields.io/badge/webpack-8dd6f9?style=for-the-badge&logo=webpack&logoColor=black">
+<img src="https://img.shields.io/badge/jest-c21325?style=for-the-badge&logo=jest&logoColor=white">
+</p>
 
+### Backend development
+<p align-"left">
+<img src="https://img.shields.io/badge/node.js-87bf01?style=for-the-badge&logo=node.js&logoColor=white">
+<img src="https://img.shields.io/badge/express-f5f5f5?style=for-the-badge&logo=express&logoColor=black">
+<img src="https://img.shields.io/badge/koa-eaeaea?style=for-the-badge&logo=koa&logoColor=black">
+<img src="https://img.shields.io/badge/postgresql-31658c?style=for-the-badge&logo=postgresql&logoColor=white">
+<img src="https://img.shields.io/badge/mongodb-4caf50?style=for-the-badge&logo=mongodb&logoColor=white">
+<img src="https://img.shields.io/badge/graphql-e10098?style=for-the-badge&logo=graphql&logoColor=white">
 
-I bring a unique perspective to my work as a full stack developer. My experience with 3D design programs such as Autodesk 3ds Max and SketchUp has given me a strong foundation in graphics programming, which has allowed me to dive into web-based 3D technologies like Three.js and React Three Fiber.
+### Software 
+<p align-"left">
+<img src="https://img.shields.io/badge/photoshop-31a8ff?style=for-the-badge&logo=adobe-photoshop&logoColor=white">
+<img src="https://img.shields.io/badge/illustrator-ff9a00?style=for-the-badge&logo=adobe-illustrator&logoColor=white">
+<img src="https://img.shields.io/badge/Adobe%20after%20affects-CF96FD?style=for-the-badge&logo=Adobe%20after%20effects&logoColor=white">
+<img src="https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white">
+<img src="https://img.shields.io/badge/postman-ff6c37?style=for-the-badge&logo=postman&logoColor=white">
 
-I'm constantly expanding my knowledge in these areas, as well as other programming languages and tools, to stay up-to-date with the latest trends and best practices in the industry.
+</p>
 
-## Projects
-
-## Prep'd: 
--	Collaborated with a team of six to develop Prep'd, a disruptive app for job interview preparation.
--	Developed the front-end using React, TypeScript, React Three Fiber, and Tailwind CSS, creating a user-friendly and accessible interface.
--	Utilized 3D models and animations to enhance the app's visual appeal and engage users.
--	Emphasized code modularity and DRY principles to maintain a well-organized and maintainable codebase.
--	Implemented ChatGPT API for video chatbot and text-based practice interviews, utilizing cutting-edge technology to enhance the app's functionality.
--	Created standout features using innovative programming techniques, resulting in an app that stands out from the competition.
--	Streamlined the app's development and maintenance process, ensuring that future updates and enhancements can be implemented efficiently
-
-## Money Quest:
-
--	Created MoneyQuest, a 3D game that teaches kids about money management and investment strategies in a fun and engaging way.
--	Developed both the front-end and back-end of the game from scratch, including graphics, user interface, data structures, and APIs.
--	Utilized my expertise in graphics programming to dive into web-based 3D technologies such as Three.js and React Three Fiber, helping to bring the game to life and make it as visually compelling as possible
-
+### Connect 
+<img src= "https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" a href ="https://www.linkedin.com/in/sarahlash1311/">
